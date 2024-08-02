@@ -1,0 +1,11 @@
+*.pyc
+*.lprof
+*.nvvp
+*.swp
+*.blend1
+*.cache
+plots/*
+dumps/*
+input/*
+results/*
+logs/*
