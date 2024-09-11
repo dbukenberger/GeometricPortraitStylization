@@ -1,7 +1,8 @@
 <img src='https://bukenberger.net/papers/hendrix.svg' align="right" width="220" height="220">
 
 # Geometric Portrait Stylization
-[![PDF](https://img.shields.io/badge/PDF-green)](https://bukenberger/pdfs/2024_bukenberger_geometric_portrait_stylization.pdf)
+[![PDF](https://img.shields.io/badge/PDF-green)](https://bukenberger.net/pdfs/2024_bukenberger_geometric_portrait_stylization.pdf)
+[![VMV Paper](https://img.shields.io/badge/DOI-10.2312%2Fvmv%20241203-blue)](https://doi.org/10.2312/vmv.20241203)
 
 With this implementation you can generate geometric stylizations of portraits and scenic input images as described in the paper.
 
