@@ -29,3 +29,18 @@ However, if not installed, it will be downloaded automatically and imported from
 This script contains exemplary setups to recreate results from the paper and an explanation of the used parameters.
 Here you can also set the result directory and if you want to show previews during the computation.
 * Results are stored as `.png` and `.svg` files, respectively.
+
+## Citation
+You can cite the paper with:
+```
+@inproceedings{bukenberger2024geometric,
+	booktitle = {Vision, Modeling, and Visualization},
+	editor = {Linsen, Lars and Thies, Justus},
+	title = {{Geometric Portrait Stylization}},
+	author = {Bukenberger, Dennis R.},
+	year = {2024},
+	publisher = {The Eurographics Association},
+	ISBN = {978-3-03868-247-9},
+	DOI = {10.2312/vmv.20241203}
+}
+```
